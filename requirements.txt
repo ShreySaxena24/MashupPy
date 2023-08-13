@@ -1,5 +1,4 @@
 youtube_search
 pytube
 moviepy
-email
 streamlit
