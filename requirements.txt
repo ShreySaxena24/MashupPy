@@ -1,6 +1,5 @@
 youtube_search
 pytube
 moviepy
-smtplib
 email
 streamlit
